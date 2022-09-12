@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.iconos{
+    padding-left: 47%;
+    padding-right: 47%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.textoIcono{
+    font-size: 16px;
+    font-weight: 300;
+}
