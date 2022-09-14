@@ -1,49 +1,59 @@
-body{
+body {
     background-color: black;
     color: white;
     font-family: 'Open Sans', sans-serif;
 }
-.logo{
+
+.logo {
     font-weight: 400;
     font-size: 20px;
 
 }
-.iconos{
+
+.iconos {
     padding-left: 49%;
     padding-right: 47%;
     padding-top: 2%;
     padding-bottom: 2%;
 }
-.titulos{
+
+.titulos {
     font-size: 40px;
     font-weight: 700;
 }
-.textoIcono{
+
+.textoIcono {
     font-size: 16px;
     font-weight: 300;
 }
-.cartas img{
+
+.cartas img {
     height: 200px;
 }
-.card{
+
+.card {
     background-color: #0fbbdd;
     border-color: white;
-  
+
 }
-.formulario button{
+
+.formulario button {
     color: white;
     border-radius: 5%;
     border-color: white;
 }
-.logofinal{
+
+.logofinal {
     text-align: center;
     font-size: 20px;
     font-weight: 700;
 }
-.socialm{
+
+.socialm {
     text-align: center;
 }
-.socialm a{
+
+.socialm a {
     text-decoration: none;
     color: white;
 }
