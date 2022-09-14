@@ -17,7 +17,7 @@ body{
     height: 200px;
 }
 .card{
-    background-color: #0ab3d4;
+    background-color: #0fbbdd;
     border-color: white;
   
 }
@@ -25,4 +25,12 @@ body{
     color: white;
     border-radius: 5%;
     border-color: white;
+}
+.logofinal{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.socialm{
+    text-align: center;
 }
